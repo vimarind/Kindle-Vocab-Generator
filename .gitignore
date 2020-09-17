@@ -130,4 +130,9 @@ dmypy.json
 
 .idea/
 .DS_Store
-core/core.py
+input/file.html
+secrets.py
+output/deck.tsv
+output/incomplete_words.txt
+audios/
+cache/
